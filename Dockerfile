@@ -1,6 +1,6 @@
 FROM risingstack/alpine:3.4-v4.4.4-3.6.1
 
-ARG NPM_TOKEN
+#ARG NPM_TOKEN
 ENV PORT 3001
 
 EXPOSE 3001
